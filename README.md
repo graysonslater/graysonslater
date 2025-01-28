@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flask and backend Database connections
 - 👯 I’m looking to collaborate on learning how to impliment AI into my projects
 - 📫 How to reach me: graysonslater@gmail.com
-- ⚡ Fun fact: I speak fluent French!
+- ⚡ Fun fact: the mitochondria is the powerhouse of the cell!
 
 ### Tech Stack
 
