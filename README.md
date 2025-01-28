@@ -8,6 +8,8 @@
 ### Tech Stack
 
 I mostly work with **JavaScript**, specifically **Node.js**, and **Python**. 
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-ea2845?logo=nestjs&logoColor=white)
