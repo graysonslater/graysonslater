@@ -1,6 +1,5 @@
 ## Hello and Welcome to my GitHub!
-- 🌱 I’m currently learning Flask and backend Database connections
-- 👯 I’m looking to collaborate on learning how to impliment AI into my projects
+- 🌱 I’m currently working on a simple AI project
 - 📫 How to reach me: graysonslater@gmail.com
 - ⚡ Fun fact: the mitochondria is the powerhouse of the cell!
 
